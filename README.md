@@ -1,6 +1,8 @@
 # Hi, I'm Steve
 
-Developer and aspiring Data Analyst focused on practical software, data-driven applications, automation and reliable infrastructure.
+Junior Data Analyst focused on SQL, Python, BI and practical data products.
+My background in software development, quality assurance and infrastructure
+helps me turn analyses into reliable, usable solutions.
 
 I build systems that solve real problems - from data pipelines and business dashboards to backend services, game systems, automation tools and self-hosted applications.
 
