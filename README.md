@@ -6,8 +6,6 @@ helps me turn analyses into reliable, usable solutions.
 
 I build systems that solve real problems - from data pipelines and business dashboards to backend services, game systems, automation tools and self-hosted applications.
 
-My background in technical support, quality assurance, independent development and infrastructure has shaped how I work: structured, pragmatic and focused on solutions that remain maintainable after deployment.
-
 ## Current Focus
 
 - Data analytics and visualization with Python, SQL, Tableau and Looker Studio
@@ -56,18 +54,6 @@ I am currently completing professional training in Data Analytics and AI, coveri
 
 ## Featured Projects
 
-### [Germany Cost of Living - Household Finance](https://github.com/haefx/germany-cost-of-living)
-
-A full-stack household-finance application for Germany. It combines personal income and expense tracking with city-based cost-of-living comparisons, budgets, savings goals and rule-based financial insights.
-
-The project started as a Streamlit prototype and was rebuilt into a structured full-stack application with authentication, demo mode, data provenance, Docker deployment, tests and a documented privacy model.
-
-**Focus areas:** full-stack development, financial data modeling, privacy-aware product design, data provenance, dashboard UX and backend architecture.
-
-**Stack:** Next.js, TypeScript, FastAPI, PostgreSQL, SQLAlchemy, Alembic, Docker, GitHub Actions
-
-[Repository](https://github.com/haefx/germany-cost-of-living) · [Live Demo](https://cost-demo.sd-rp.de/)
-
 ---
 
 ### [GoExplore Performance Dashboard](https://github.com/haefx/goexplore-performance-dashboard)
@@ -81,6 +67,22 @@ The dashboard translates raw sales data into a management view covering revenue,
 **Stack:** Excel, BigQuery, SQL, Looker Studio
 
 [Repository](https://github.com/haefx/goexplore-performance-dashboard)
+
+---
+
+### [Germany Cost of Living - Household Finance](https://github.com/haefx/germany-cost-of-living)
+
+A full-stack household-finance application for Germany. It combines personal income and expense tracking with city-based cost-of-living comparisons, budgets, savings goals and rule-based financial insights.
+
+The project started as a Streamlit prototype and was rebuilt into a structured full-stack application with authentication, demo mode, data provenance, Docker deployment, tests and a documented privacy model.
+
+**Focus areas:** full-stack development, financial data modeling, privacy-aware product design, data provenance, dashboard UX and backend architecture.
+
+**Stack:** Next.js, TypeScript, FastAPI, PostgreSQL, SQLAlchemy, Alembic, Docker, GitHub Actions
+
+[Repository](https://github.com/haefx/germany-cost-of-living) · [Live Demo](https://cost-demo.sd-rp.de/)
+
+---
 
 ## Experience
 
